@@ -1,10 +1,11 @@
 # AMM Volume Bot
 ![UNISWAP](https://cryptoradar.com/cms/content/images/2022/02/What-is-UNI.png)
 
-We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+**Support Cortex and Get Exclusive Access to DEX Bots!**
 
-For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+We're building advanced DEX bots for the community to support our mission at CoreSwap in redefining  Decentralized  Exchange participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
 
+For more details, join our Discord at [Coreswap Community](https://discord.gg/AWDgU4WCwV)
 
 This is a simple AMM volumizer bot that automatically trades tokens on decentralized exchanges (DEX) so that price values are registered and available on a regular basis. Most DEX APIs will not update price data if there are no trades happening for more than a day. This bot aims to solve that problem by automatically executing a small trade at regular intervals. Prerequisite is that you will need to have some of your ERC20 tokens in your wallet, and you must first give token approval to the AMM router of the DEX for token spending. Once the bot is operational, it will sell 1 token for the native coin every 12hrs. All values are configurable in the code. :)  
 
